@@ -18,3 +18,5 @@ finalizando con github
 modifico listas
 para realizar mi ultima modificacion
 fue lindo mientras duro
+
+agora sim, adeus
